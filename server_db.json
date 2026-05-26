@@ -1,0 +1,2642 @@
+{
+  "users": [
+    {
+      "id": "u-admin",
+      "email": "admin@medicare.com",
+      "role": "admin",
+      "name": "Medicare System Administrator",
+      "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&q=80",
+      "status": "active",
+      "created_at": "2026-01-01T08:00:00Z"
+    },
+    {
+      "id": "u-doc1",
+      "email": "ramesh.banerjee@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Ramesh Banerjee",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/0.jpg",
+      "status": "active",
+      "created_at": "2026-01-02T09:00:00Z"
+    },
+    {
+      "id": "u-doc2",
+      "email": "shweta.trivedi@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Shweta Trivedi",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/0.jpg",
+      "status": "active",
+      "created_at": "2026-01-03T10:00:00Z"
+    },
+    {
+      "id": "u-doc3",
+      "email": "dinesh.sen@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Dinesh Sen",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/1.jpg",
+      "status": "active",
+      "created_at": "2026-01-04T12:00:00Z"
+    },
+    {
+      "id": "u-doc4",
+      "email": "kiran.mehta@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Kiran Mehta",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/1.jpg",
+      "status": "active",
+      "created_at": "2026-01-05T09:00:00Z"
+    },
+    {
+      "id": "u-doc5",
+      "email": "arvind.mishra@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Arvind Mishra",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/2.jpg",
+      "status": "active",
+      "created_at": "2026-01-06T10:00:00Z"
+    },
+    {
+      "id": "u-doc6",
+      "email": "alia.desai@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Alia Desai",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/2.jpg",
+      "status": "active",
+      "created_at": "2026-01-07T11:00:00Z"
+    },
+    {
+      "id": "u-doc7",
+      "email": "sanjay.verma@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Sanjay Verma",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/3.jpg",
+      "status": "active",
+      "created_at": "2026-01-08T12:00:00Z"
+    },
+    {
+      "id": "u-patient1",
+      "email": "patient@medicare.com",
+      "role": "patient",
+      "name": "John Doe",
+      "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&q=80",
+      "status": "active",
+      "created_at": "2026-01-05T14:00:00Z"
+    },
+    {
+      "id": "u-bs441mq",
+      "email": "tanujadurairaj0610@gmail.com",
+      "role": "patient",
+      "name": "john",
+      "avatar_url": "https://api.dicebear.com/7.x/adventurer/svg?seed=john",
+      "status": "active",
+      "created_at": "2026-05-26T14:14:17.620Z"
+    },
+    {
+      "id": "u-doc8",
+      "email": "kriti.desai@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Kriti Desai",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/3.jpg",
+      "status": "active",
+      "created_at": "2026-04-29T03:47:06.749Z"
+    },
+    {
+      "id": "u-doc9",
+      "email": "arvind.naik@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Arvind Naik",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/4.jpg",
+      "status": "active",
+      "created_at": "2026-05-05T07:38:12.161Z"
+    },
+    {
+      "id": "u-doc10",
+      "email": "maya.jha@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Maya Jha",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/4.jpg",
+      "status": "active",
+      "created_at": "2026-05-12T07:20:22.329Z"
+    },
+    {
+      "id": "u-doc11",
+      "email": "suresh.bose@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Suresh Bose",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/5.jpg",
+      "status": "active",
+      "created_at": "2026-05-10T18:59:21.816Z"
+    },
+    {
+      "id": "u-doc12",
+      "email": "swati.kulkarni@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Swati Kulkarni",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/5.jpg",
+      "status": "active",
+      "created_at": "2026-05-23T16:28:22.715Z"
+    },
+    {
+      "id": "u-doc13",
+      "email": "rohan.dubey@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Rohan Dubey",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/6.jpg",
+      "status": "active",
+      "created_at": "2026-05-21T09:45:02.795Z"
+    },
+    {
+      "id": "u-doc14",
+      "email": "karishma.chatterjee@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Karishma Chatterjee",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/6.jpg",
+      "status": "active",
+      "created_at": "2026-05-20T06:30:47.634Z"
+    },
+    {
+      "id": "u-doc15",
+      "email": "rahul.hegde@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Rahul Hegde",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/7.jpg",
+      "status": "active",
+      "created_at": "2026-05-12T16:05:58.163Z"
+    },
+    {
+      "id": "u-doc16",
+      "email": "nikita.kumar@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Nikita Kumar",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/7.jpg",
+      "status": "active",
+      "created_at": "2026-05-18T04:17:16.438Z"
+    },
+    {
+      "id": "u-doc17",
+      "email": "sameer.varghese@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Sameer Varghese",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/8.jpg",
+      "status": "active",
+      "created_at": "2026-05-13T02:37:58.299Z"
+    },
+    {
+      "id": "u-doc18",
+      "email": "aditi.joshi@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Aditi Joshi",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/8.jpg",
+      "status": "active",
+      "created_at": "2026-05-17T23:54:50.129Z"
+    },
+    {
+      "id": "u-doc19",
+      "email": "aditya.sen@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Aditya Sen",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/9.jpg",
+      "status": "active",
+      "created_at": "2026-05-03T17:56:41.360Z"
+    },
+    {
+      "id": "u-doc20",
+      "email": "neha.dubey@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Neha Dubey",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/9.jpg",
+      "status": "active",
+      "created_at": "2026-05-11T23:34:57.634Z"
+    },
+    {
+      "id": "u-doc21",
+      "email": "amit.singh@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Amit Singh",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/10.jpg",
+      "status": "active",
+      "created_at": "2026-05-20T02:05:06.737Z"
+    },
+    {
+      "id": "u-doc22",
+      "email": "priya.trivedi@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Priya Trivedi",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/10.jpg",
+      "status": "active",
+      "created_at": "2026-05-16T10:35:11.370Z"
+    },
+    {
+      "id": "u-doc23",
+      "email": "pratyush.suri@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Pratyush Suri",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/11.jpg",
+      "status": "active",
+      "created_at": "2026-04-29T00:01:09.921Z"
+    },
+    {
+      "id": "u-doc24",
+      "email": "aarti.naik@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Aarti Naik",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/11.jpg",
+      "status": "active",
+      "created_at": "2026-05-14T13:06:28.562Z"
+    },
+    {
+      "id": "u-doc25",
+      "email": "sanjay.suri@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Sanjay Suri",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/12.jpg",
+      "status": "active",
+      "created_at": "2026-05-12T23:20:59.330Z"
+    },
+    {
+      "id": "u-doc26",
+      "email": "rashmi.menon@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Rashmi Menon",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/12.jpg",
+      "status": "active",
+      "created_at": "2026-05-03T15:05:39.693Z"
+    },
+    {
+      "id": "u-doc27",
+      "email": "arjun.saxena@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Arjun Saxena",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/13.jpg",
+      "status": "active",
+      "created_at": "2026-04-30T12:59:26.223Z"
+    },
+    {
+      "id": "u-doc28",
+      "email": "kavita.chatterjee@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Kavita Chatterjee",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/13.jpg",
+      "status": "active",
+      "created_at": "2026-05-26T03:52:47.582Z"
+    },
+    {
+      "id": "u-doc29",
+      "email": "aryan.joshi@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Aryan Joshi",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/14.jpg",
+      "status": "active",
+      "created_at": "2026-04-30T02:35:34.742Z"
+    },
+    {
+      "id": "u-doc30",
+      "email": "nikita.yadav@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Nikita Yadav",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/14.jpg",
+      "status": "active",
+      "created_at": "2026-04-28T08:48:31.639Z"
+    },
+    {
+      "id": "u-doc31",
+      "email": "vijay.choudhury@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Vijay Choudhury",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/15.jpg",
+      "status": "active",
+      "created_at": "2026-05-04T15:29:01.672Z"
+    },
+    {
+      "id": "u-doc32",
+      "email": "rashmi.banerjee@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Rashmi Banerjee",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/15.jpg",
+      "status": "active",
+      "created_at": "2026-05-22T11:23:00.742Z"
+    },
+    {
+      "id": "u-doc33",
+      "email": "aarush.sen@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Aarush Sen",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/16.jpg",
+      "status": "active",
+      "created_at": "2026-05-05T09:52:47.124Z"
+    },
+    {
+      "id": "u-doc34",
+      "email": "sonam.patil@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Sonam Patil",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/16.jpg",
+      "status": "active",
+      "created_at": "2026-05-18T22:31:38.833Z"
+    },
+    {
+      "id": "u-doc35",
+      "email": "vihaan.menon@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Vihaan Menon",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/17.jpg",
+      "status": "active",
+      "created_at": "2026-05-11T21:32:09.601Z"
+    },
+    {
+      "id": "u-doc36",
+      "email": "kajal.chatterjee@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Kajal Chatterjee",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/17.jpg",
+      "status": "active",
+      "created_at": "2026-05-18T10:51:16.076Z"
+    },
+    {
+      "id": "u-doc37",
+      "email": "anil.malhotra@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Anil Malhotra",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/18.jpg",
+      "status": "active",
+      "created_at": "2026-05-05T14:34:06.776Z"
+    },
+    {
+      "id": "u-doc38",
+      "email": "alia.kumar@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Alia Kumar",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/18.jpg",
+      "status": "active",
+      "created_at": "2026-05-02T02:29:56.291Z"
+    },
+    {
+      "id": "u-doc39",
+      "email": "rudra.kumar@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Rudra Kumar",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/19.jpg",
+      "status": "active",
+      "created_at": "2026-05-09T10:00:31.778Z"
+    },
+    {
+      "id": "u-doc40",
+      "email": "neha.hegde@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Neha Hegde",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/19.jpg",
+      "status": "active",
+      "created_at": "2026-05-17T05:56:36.389Z"
+    },
+    {
+      "id": "u-doc41",
+      "email": "manoj.sharma@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Manoj Sharma",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/20.jpg",
+      "status": "active",
+      "created_at": "2026-05-25T13:19:42.927Z"
+    },
+    {
+      "id": "u-doc42",
+      "email": "rashmi.bose@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Rashmi Bose",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/20.jpg",
+      "status": "active",
+      "created_at": "2026-05-03T19:07:59.985Z"
+    },
+    {
+      "id": "u-doc43",
+      "email": "anil.pillai@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Anil Pillai",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/21.jpg",
+      "status": "active",
+      "created_at": "2026-05-26T00:12:44.863Z"
+    },
+    {
+      "id": "u-doc44",
+      "email": "swati.joshi@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Swati Joshi",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+      "status": "active",
+      "created_at": "2026-05-01T23:30:24.105Z"
+    },
+    {
+      "id": "u-doc45",
+      "email": "gaurav.mishra@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Gaurav Mishra",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/22.jpg",
+      "status": "active",
+      "created_at": "2026-05-09T13:58:29.921Z"
+    },
+    {
+      "id": "u-doc46",
+      "email": "kiran.shrivastava@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Kiran Shrivastava",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/22.jpg",
+      "status": "active",
+      "created_at": "2026-05-08T14:47:21.108Z"
+    },
+    {
+      "id": "u-doc47",
+      "email": "anil.roy@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Anil Roy",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/23.jpg",
+      "status": "active",
+      "created_at": "2026-05-11T13:20:35.833Z"
+    },
+    {
+      "id": "u-doc48",
+      "email": "simran.nair@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Simran Nair",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/23.jpg",
+      "status": "active",
+      "created_at": "2026-04-28T05:43:33.987Z"
+    },
+    {
+      "id": "u-doc49",
+      "email": "abhishek.sharma@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Abhishek Sharma",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/24.jpg",
+      "status": "active",
+      "created_at": "2026-05-04T03:02:31.442Z"
+    },
+    {
+      "id": "u-doc50",
+      "email": "tara.bhat@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Tara Bhat",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/24.jpg",
+      "status": "active",
+      "created_at": "2026-05-21T07:55:21.716Z"
+    },
+    {
+      "id": "u-doc51",
+      "email": "karan.shah@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Karan Shah",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/25.jpg",
+      "status": "active",
+      "created_at": "2026-05-18T04:18:05.382Z"
+    },
+    {
+      "id": "u-doc52",
+      "email": "payal.kumar@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Payal Kumar",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/25.jpg",
+      "status": "active",
+      "created_at": "2026-05-23T19:58:23.922Z"
+    },
+    {
+      "id": "u-doc53",
+      "email": "vihaan.iyer@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Vihaan Iyer",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/26.jpg",
+      "status": "active",
+      "created_at": "2026-05-18T07:53:17.446Z"
+    },
+    {
+      "id": "u-doc54",
+      "email": "aaradhya.pillai@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Aaradhya Pillai",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/26.jpg",
+      "status": "active",
+      "created_at": "2026-05-22T22:01:02.059Z"
+    },
+    {
+      "id": "u-doc55",
+      "email": "vijay.saxena@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Vijay Saxena",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/27.jpg",
+      "status": "active",
+      "created_at": "2026-05-05T15:09:35.021Z"
+    },
+    {
+      "id": "u-doc56",
+      "email": "ishita.mishra@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Ishita Mishra",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/female/27.jpg",
+      "status": "active",
+      "created_at": "2026-05-24T00:10:45.588Z"
+    },
+    {
+      "id": "u-doc57",
+      "email": "sanjay.trivedi@medicare.com",
+      "role": "doctor",
+      "name": "Dr. Sanjay Trivedi",
+      "avatar_url": "https://xsgames.co/randomusers/assets/avatars/male/28.jpg",
+      "status": "active",
+      "created_at": "2026-05-15T03:31:03.903Z"
+    },
+    {
+      "id": "u-ly27yzp",
+      "email": "ggayu1969@gmail.com",
+      "role": "patient",
+      "name": "john",
+      "avatar_url": "https://api.dicebear.com/7.x/adventurer/svg?seed=john",
+      "status": "active",
+      "created_at": "2026-05-26T14:56:03.866Z"
+    }
+  ],
+  "doctors": [
+    {
+      "id": "u-doc1",
+      "specialization": "Cardiology",
+      "hospital": "City General Hospital",
+      "bio": "Dr. Sarah Jenkins has over 12 years of experience in cardiology. She specializes in preventative cardiology, heart failure management, and advanced echocardiography.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 180
+    },
+    {
+      "id": "u-doc2",
+      "specialization": "Pediatrics",
+      "hospital": "St. Jude Children's Health",
+      "bio": "Dedicated and compassionate pediatrician focused on comprehensive child development, immunizations, and pediatric asthma care.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.7,
+      "approved": true,
+      "appointment_fee": 120
+    },
+    {
+      "id": "u-doc3",
+      "specialization": "Neurology",
+      "hospital": "Metro Neuroscience Center",
+      "bio": "Specialist in nervous system disorders, chronic migraine therapy, and neuro-rehabilitation with 8 years of research and clinical practice.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.8,
+      "approved": true,
+      "appointment_fee": 200
+    },
+    {
+      "id": "u-doc4",
+      "specialization": "Orthopedics",
+      "hospital": "Medicare Orthopedic Pavilion",
+      "bio": "Dr. Marcus Vance is an expert in reconstructive joint surgery, sports medicine, and minimally invasive orthopedics. He has dedicated over 15 years to restoring patient mobility.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 175
+    },
+    {
+      "id": "u-doc5",
+      "specialization": "Dermatology",
+      "hospital": "Skin & Laser Clinic",
+      "bio": "Dr. Sophia Chen specializes in medical and cosmetic dermatology, acne treatment, and skin cancer screening. She is passionate about helping patients achieve healthy, radiant skin.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.8,
+      "approved": true,
+      "appointment_fee": 140
+    },
+    {
+      "id": "u-doc6",
+      "specialization": "Ophthalmology",
+      "hospital": "Medicare Eye Institute",
+      "bio": "Dr. James Carter is an ophthalmic surgeon specializing in laser vision correction, advanced cataract surgery, and treatment of glaucoma and macular degeneration.",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 160
+    },
+    {
+      "id": "u-doc7",
+      "specialization": "Endocrinology",
+      "hospital": "Metabolic Health Clinic",
+      "bio": "Dr. Olivia Martinez is dedicated to managing hormonal imbalances, thyroid disorders, and comprehensive diabetes care through personalized treatment.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00",
+            "15:00"
+          ]
+        }
+      ],
+      "rating": 4.6,
+      "approved": true,
+      "appointment_fee": 150
+    },
+    {
+      "id": "u-doc8",
+      "specialization": "Ophthalmology",
+      "hospital": "Medicare Orthopedic Pavilion",
+      "bio": "Dr. Brian King is a highly accomplished specialist in Ophthalmology with clinical affiliations at Medicare Orthopedic Pavilion. Expert in corneal diseases and dry eye therapy, providing comprehensive medical and surgical eye care.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "14:00",
+            "15:00"
+          ]
+        }
+      ],
+      "rating": 4.8,
+      "approved": true,
+      "appointment_fee": 1040
+    },
+    {
+      "id": "u-doc9",
+      "specialization": "Pulmonology",
+      "hospital": "St. Jude Children's Health",
+      "bio": "Dr. Michelle Hernandez is a highly accomplished specialist in Pulmonology with clinical affiliations at St. Jude Children's Health. Expert in asthma management, lung nodule evaluation, and critical care medicine.",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "slots": [
+            "10:00",
+            "13:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1020
+    },
+    {
+      "id": "u-doc10",
+      "specialization": "Gastroenterology",
+      "hospital": "Mercy Memorial Clinic",
+      "bio": "Dr. Barbara Taylor is a highly accomplished specialist in Gastroenterology with clinical affiliations at Mercy Memorial Clinic. Dedicated to digestive health and nutritional optimization, providing comprehensive gastrointestinal care.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "13:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.6,
+      "approved": true,
+      "appointment_fee": 1100
+    },
+    {
+      "id": "u-doc11",
+      "specialization": "Urology",
+      "hospital": "Skin & Laser Clinic",
+      "bio": "Dr. Rebecca Torres is a highly accomplished specialist in Urology with clinical affiliations at Skin & Laser Clinic. Dedicated to male reproductive health and modern robotic urological procedures.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "11:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.7,
+      "approved": true,
+      "appointment_fee": 1040
+    },
+    {
+      "id": "u-doc12",
+      "specialization": "Orthopedics",
+      "hospital": "Metro Neuroscience Center",
+      "bio": "Dr. Rebecca Flores is a highly accomplished specialist in Orthopedics with clinical affiliations at Metro Neuroscience Center. Expert in joint replacement surgery and hand/upper extremity care, helping patients restore their pain-free mobility.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "15:00"
+          ]
+        }
+      ],
+      "rating": 4.6,
+      "approved": true,
+      "appointment_fee": 1030
+    },
+    {
+      "id": "u-doc13",
+      "specialization": "Neurology",
+      "hospital": "City General Hospital",
+      "bio": "Dr. Stephanie Rodriguez is a highly accomplished specialist in Neurology with clinical affiliations at City General Hospital. Focused on neuromuscular disorders, epilepsy management, and sleep medicine utilizing modern electrodiagnostic testing.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "10:00",
+            "13:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.6,
+      "approved": true,
+      "appointment_fee": 1030
+    },
+    {
+      "id": "u-doc14",
+      "specialization": "Gynecology",
+      "hospital": "Medicare Orthopedic Pavilion",
+      "bio": "Dr. Nancy Walker is a highly accomplished specialist in Gynecology with clinical affiliations at Medicare Orthopedic Pavilion. Gynecologist specializing in minimally invasive laparoscopic surgery, prenatal care, and menopause management.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00",
+            "15:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1030
+    },
+    {
+      "id": "u-doc15",
+      "specialization": "Pediatrics",
+      "hospital": "Mercy Memorial Clinic",
+      "bio": "Dr. Richard Torres is a highly accomplished specialist in Pediatrics with clinical affiliations at Mercy Memorial Clinic. Compassionate pediatrician focused on comprehensive child development, pediatric allergies, and immunizations.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "15:00"
+          ]
+        }
+      ],
+      "rating": 4.6,
+      "approved": true,
+      "appointment_fee": 1100
+    },
+    {
+      "id": "u-doc16",
+      "specialization": "Pulmonology",
+      "hospital": "Medicare Orthopedic Pavilion",
+      "bio": "Dr. Donald Jones is a highly accomplished specialist in Pulmonology with clinical affiliations at Medicare Orthopedic Pavilion. Dedicated to respiratory health, offering advanced bronchoscopy and pulmonary function assessments.",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1080
+    },
+    {
+      "id": "u-doc17",
+      "specialization": "Neurology",
+      "hospital": "Medicare Eye Institute",
+      "bio": "Dr. George Jackson is a highly accomplished specialist in Neurology with clinical affiliations at Medicare Eye Institute. Neurologist specializing in chronic migraine management, neurodegenerative disorders, and stroke rehabilitation.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.7,
+      "approved": true,
+      "appointment_fee": 1010
+    },
+    {
+      "id": "u-doc18",
+      "specialization": "Pulmonology",
+      "hospital": "Medicare Eye Institute",
+      "bio": "Dr. Susan Hill is a highly accomplished specialist in Pulmonology with clinical affiliations at Medicare Eye Institute. Pulmonologist specializing in chronic obstructive pulmonary disease (COPD), sleep apnea, and pulmonary fibrosis.",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "slots": [
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "11:00",
+            "13:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "15:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1030
+    },
+    {
+      "id": "u-doc19",
+      "specialization": "Cardiology",
+      "hospital": "St. Mary Wellness Center",
+      "bio": "Dr. Rebecca Robinson is a highly accomplished specialist in Cardiology with clinical affiliations at St. Mary Wellness Center. Specialist in preventive cardiology and heart health, focusing on advanced diagnostic tests and personalized rehabilitation plans.",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.8,
+      "approved": true,
+      "appointment_fee": 1090
+    },
+    {
+      "id": "u-doc20",
+      "specialization": "Oncology",
+      "hospital": "Metro Neuroscience Center",
+      "bio": "Dr. Mark Lee is a highly accomplished specialist in Oncology with clinical affiliations at Metro Neuroscience Center. Medical oncologist specializing in personalized cancer therapy, clinical trials, and cancer survivorship care.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.7,
+      "approved": true,
+      "appointment_fee": 1080
+    },
+    {
+      "id": "u-doc21",
+      "specialization": "Gynecology",
+      "hospital": "St. Jude Children's Health",
+      "bio": "Dr. Carol Perez is a highly accomplished specialist in Gynecology with clinical affiliations at St. Jude Children's Health. Expert in high-risk obstetrics and preventive gynecological health screenings.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "11:00",
+            "13:00",
+            "15:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1010
+    },
+    {
+      "id": "u-doc22",
+      "specialization": "Pediatrics",
+      "hospital": "Skin & Laser Clinic",
+      "bio": "Dr. John Johnson is a highly accomplished specialist in Pediatrics with clinical affiliations at Skin & Laser Clinic. Compassionate pediatrician focused on comprehensive child development, pediatric allergies, and immunizations.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "10:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1000
+    },
+    {
+      "id": "u-doc23",
+      "specialization": "Otolaryngology",
+      "hospital": "Skin & Laser Clinic",
+      "bio": "Dr. David Jones is a highly accomplished specialist in Otolaryngology with clinical affiliations at Skin & Laser Clinic. Dedicated to surgical and medical treatment of head, neck, and thyroid conditions.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 5,
+      "approved": true,
+      "appointment_fee": 1060
+    },
+    {
+      "id": "u-doc24",
+      "specialization": "Urology",
+      "hospital": "Medicare Eye Institute",
+      "bio": "Dr. James Garcia is a highly accomplished specialist in Urology with clinical affiliations at Medicare Eye Institute. Dedicated to male reproductive health and modern robotic urological procedures.",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 5,
+      "approved": true,
+      "appointment_fee": 1090
+    },
+    {
+      "id": "u-doc25",
+      "specialization": "Rheumatology",
+      "hospital": "Presbyterian Medical Hub",
+      "bio": "Dr. Richard Taylor is a highly accomplished specialist in Rheumatology with clinical affiliations at Presbyterian Medical Hub. Dedicated to early diagnosis of systemic inflammatory diseases and advanced biologic therapies.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.5,
+      "approved": true,
+      "appointment_fee": 1000
+    },
+    {
+      "id": "u-doc26",
+      "specialization": "Gastroenterology",
+      "hospital": "St. Jude Children's Health",
+      "bio": "Dr. Richard Davis is a highly accomplished specialist in Gastroenterology with clinical affiliations at St. Jude Children's Health. Gastroenterologist specializing in inflammatory bowel disease (IBD), acid reflux management, and colon cancer screenings.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "14:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1100
+    },
+    {
+      "id": "u-doc27",
+      "specialization": "Pulmonology",
+      "hospital": "City General Hospital",
+      "bio": "Dr. Jason Walker is a highly accomplished specialist in Pulmonology with clinical affiliations at City General Hospital. Expert in asthma management, lung nodule evaluation, and critical care medicine.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.7,
+      "approved": true,
+      "appointment_fee": 1070
+    },
+    {
+      "id": "u-doc28",
+      "specialization": "Neurology",
+      "hospital": "Metabolic Health Clinic",
+      "bio": "Dr. David Brown is a highly accomplished specialist in Neurology with clinical affiliations at Metabolic Health Clinic. Focused on neuromuscular disorders, epilepsy management, and sleep medicine utilizing modern electrodiagnostic testing.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.6,
+      "approved": true,
+      "appointment_fee": 1050
+    },
+    {
+      "id": "u-doc29",
+      "specialization": "Gynecology",
+      "hospital": "Presbyterian Medical Hub",
+      "bio": "Dr. David Taylor is a highly accomplished specialist in Gynecology with clinical affiliations at Presbyterian Medical Hub. Gynecologist specializing in minimally invasive laparoscopic surgery, prenatal care, and menopause management.",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "11:00",
+            "13:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.8,
+      "approved": true,
+      "appointment_fee": 1010
+    },
+    {
+      "id": "u-doc30",
+      "specialization": "Oncology",
+      "hospital": "Mercy Memorial Clinic",
+      "bio": "Dr. Donna Walker is a highly accomplished specialist in Oncology with clinical affiliations at Mercy Memorial Clinic. Expert in breast and lung cancers, dedicated to multidisciplinary oncology care and supportive medicine.",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "14:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.8,
+      "approved": true,
+      "appointment_fee": 1020
+    },
+    {
+      "id": "u-doc31",
+      "specialization": "Cardiology",
+      "hospital": "Metro Neuroscience Center",
+      "bio": "Dr. Paul Gonzalez is a highly accomplished specialist in Cardiology with clinical affiliations at Metro Neuroscience Center. Dedicated cardiologist specializing in heart failure management, arrhythmia treatment, and lipidology with over a decade of clinical practice.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.5,
+      "approved": true,
+      "appointment_fee": 1100
+    },
+    {
+      "id": "u-doc32",
+      "specialization": "Rheumatology",
+      "hospital": "Skin & Laser Clinic",
+      "bio": "Dr. William Moore is a highly accomplished specialist in Rheumatology with clinical affiliations at Skin & Laser Clinic. Dedicated to early diagnosis of systemic inflammatory diseases and advanced biologic therapies.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00",
+            "15:00"
+          ]
+        }
+      ],
+      "rating": 4.6,
+      "approved": true,
+      "appointment_fee": 1100
+    },
+    {
+      "id": "u-doc33",
+      "specialization": "Urology",
+      "hospital": "Mercy Memorial Clinic",
+      "bio": "Dr. Robert Scott is a highly accomplished specialist in Urology with clinical affiliations at Mercy Memorial Clinic. Dedicated to male reproductive health and modern robotic urological procedures.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1080
+    },
+    {
+      "id": "u-doc34",
+      "specialization": "Nephrology",
+      "hospital": "City General Hospital",
+      "bio": "Dr. Barbara Gonzalez is a highly accomplished specialist in Nephrology with clinical affiliations at City General Hospital. Dedicated to kidney health preservation and comprehensive renal therapies.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00",
+            "15:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1100
+    },
+    {
+      "id": "u-doc35",
+      "specialization": "Cardiology",
+      "hospital": "Metro Neuroscience Center",
+      "bio": "Dr. Matthew Williams is a highly accomplished specialist in Cardiology with clinical affiliations at Metro Neuroscience Center. Expert in interventional cardiology and vascular diseases, committed to offering cutting-edge patient care.",
+      "availability": [
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.7,
+      "approved": true,
+      "appointment_fee": 1000
+    },
+    {
+      "id": "u-doc36",
+      "specialization": "Rheumatology",
+      "hospital": "Medicare Eye Institute",
+      "bio": "Dr. Barbara Martin is a highly accomplished specialist in Rheumatology with clinical affiliations at Medicare Eye Institute. Dedicated to early diagnosis of systemic inflammatory diseases and advanced biologic therapies.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 5,
+      "approved": true,
+      "appointment_fee": 1060
+    },
+    {
+      "id": "u-doc37",
+      "specialization": "Otolaryngology",
+      "hospital": "Metabolic Health Clinic",
+      "bio": "Dr. Matthew Young is a highly accomplished specialist in Otolaryngology with clinical affiliations at Metabolic Health Clinic. Dedicated to surgical and medical treatment of head, neck, and thyroid conditions.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00",
+            "15:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1000
+    },
+    {
+      "id": "u-doc38",
+      "specialization": "Dermatology",
+      "hospital": "St. Jude Children's Health",
+      "bio": "Dr. Amanda Ramirez is a highly accomplished specialist in Dermatology with clinical affiliations at St. Jude Children's Health. Specialist in cosmetic dermatology and dermatologic surgery, emphasizing natural-looking outcomes.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.8,
+      "approved": true,
+      "appointment_fee": 1030
+    },
+    {
+      "id": "u-doc39",
+      "specialization": "Oncology",
+      "hospital": "Skin & Laser Clinic",
+      "bio": "Dr. Edward Smith is a highly accomplished specialist in Oncology with clinical affiliations at Skin & Laser Clinic. Expert in breast and lung cancers, dedicated to multidisciplinary oncology care and supportive medicine.",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "15:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1010
+    },
+    {
+      "id": "u-doc40",
+      "specialization": "Nephrology",
+      "hospital": "Medicare Orthopedic Pavilion",
+      "bio": "Dr. Elizabeth Williams is a highly accomplished specialist in Nephrology with clinical affiliations at Medicare Orthopedic Pavilion. Expert in glomerulonephritis, electrolyte disorders, and post-transplant kidney management.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "14:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1080
+    },
+    {
+      "id": "u-doc41",
+      "specialization": "Rheumatology",
+      "hospital": "Medicare Orthopedic Pavilion",
+      "bio": "Dr. Michelle Wilson is a highly accomplished specialist in Rheumatology with clinical affiliations at Medicare Orthopedic Pavilion. Dedicated to early diagnosis of systemic inflammatory diseases and advanced biologic therapies.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1030
+    },
+    {
+      "id": "u-doc42",
+      "specialization": "Otolaryngology",
+      "hospital": "City General Hospital",
+      "bio": "Dr. Michelle Brown is a highly accomplished specialist in Otolaryngology with clinical affiliations at City General Hospital. ENT specialist focusing on sinus disorders, allergy treatment, and hearing restoration surgeries.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "11:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.7,
+      "approved": true,
+      "appointment_fee": 1090
+    },
+    {
+      "id": "u-doc43",
+      "specialization": "Endocrinology",
+      "hospital": "Presbyterian Medical Hub",
+      "bio": "Dr. Ashley Lee is a highly accomplished specialist in Endocrinology with clinical affiliations at Presbyterian Medical Hub. Endocrinologist specializing in intensive type 1 and type 2 diabetes management and thyroid disease therapies.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.8,
+      "approved": true,
+      "appointment_fee": 1100
+    },
+    {
+      "id": "u-doc44",
+      "specialization": "Neurology",
+      "hospital": "Medicare Orthopedic Pavilion",
+      "bio": "Dr. Ronald Allen is a highly accomplished specialist in Neurology with clinical affiliations at Medicare Orthopedic Pavilion. Expert in clinical neurophysiology and memory disorders, passionate about improving cognitive health.",
+      "availability": [
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.5,
+      "approved": true,
+      "appointment_fee": 1030
+    },
+    {
+      "id": "u-doc45",
+      "specialization": "Endocrinology",
+      "hospital": "Presbyterian Medical Hub",
+      "bio": "Dr. Deborah Torres is a highly accomplished specialist in Endocrinology with clinical affiliations at Presbyterian Medical Hub. Focused on metabolic disorders, osteoporosis management, and hormonal imbalance diagnostics.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00"
+          ]
+        }
+      ],
+      "rating": 4.6,
+      "approved": true,
+      "appointment_fee": 1090
+    },
+    {
+      "id": "u-doc46",
+      "specialization": "Orthopedics",
+      "hospital": "St. Jude Children's Health",
+      "bio": "Dr. William Davis is a highly accomplished specialist in Orthopedics with clinical affiliations at St. Jude Children's Health. Expert in joint replacement surgery and hand/upper extremity care, helping patients restore their pain-free mobility.",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "slots": [
+            "11:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1080
+    },
+    {
+      "id": "u-doc47",
+      "specialization": "Gastroenterology",
+      "hospital": "St. Jude Children's Health",
+      "bio": "Dr. Margaret Hill is a highly accomplished specialist in Gastroenterology with clinical affiliations at St. Jude Children's Health. Expert in liver diseases, irritable bowel syndrome (IBS), and advanced therapeutic endoscopy.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "11:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1050
+    },
+    {
+      "id": "u-doc48",
+      "specialization": "Otolaryngology",
+      "hospital": "St. Jude Children's Health",
+      "bio": "Dr. Richard Young is a highly accomplished specialist in Otolaryngology with clinical affiliations at St. Jude Children's Health. ENT specialist focusing on sinus disorders, allergy treatment, and hearing restoration surgeries.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.6,
+      "approved": true,
+      "appointment_fee": 1070
+    },
+    {
+      "id": "u-doc49",
+      "specialization": "Pulmonology",
+      "hospital": "Metabolic Health Clinic",
+      "bio": "Dr. Barbara Sanchez is a highly accomplished specialist in Pulmonology with clinical affiliations at Metabolic Health Clinic. Expert in asthma management, lung nodule evaluation, and critical care medicine.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.6,
+      "approved": true,
+      "appointment_fee": 1030
+    },
+    {
+      "id": "u-doc50",
+      "specialization": "Rheumatology",
+      "hospital": "Presbyterian Medical Hub",
+      "bio": "Dr. Jennifer Nguyen is a highly accomplished specialist in Rheumatology with clinical affiliations at Presbyterian Medical Hub. Rheumatologist specializing in rheumatoid arthritis, lupus, and autoimmune joint disorders.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.6,
+      "approved": true,
+      "appointment_fee": 1090
+    },
+    {
+      "id": "u-doc51",
+      "specialization": "Gastroenterology",
+      "hospital": "Metabolic Health Clinic",
+      "bio": "Dr. Anthony Rodriguez is a highly accomplished specialist in Gastroenterology with clinical affiliations at Metabolic Health Clinic. Expert in liver diseases, irritable bowel syndrome (IBS), and advanced therapeutic endoscopy.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1030
+    },
+    {
+      "id": "u-doc52",
+      "specialization": "Gastroenterology",
+      "hospital": "City General Hospital",
+      "bio": "Dr. Steven Lee is a highly accomplished specialist in Gastroenterology with clinical affiliations at City General Hospital. Gastroenterologist specializing in inflammatory bowel disease (IBD), acid reflux management, and colon cancer screenings.",
+      "availability": [
+        {
+          "day": "Wednesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "14:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.7,
+      "approved": true,
+      "appointment_fee": 1090
+    },
+    {
+      "id": "u-doc53",
+      "specialization": "Orthopedics",
+      "hospital": "St. Jude Children's Health",
+      "bio": "Dr. Barbara Lee is a highly accomplished specialist in Orthopedics with clinical affiliations at St. Jude Children's Health. Expert in joint replacement surgery and hand/upper extremity care, helping patients restore their pain-free mobility.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00",
+            "15:00"
+          ]
+        }
+      ],
+      "rating": 4.5,
+      "approved": true,
+      "appointment_fee": 1080
+    },
+    {
+      "id": "u-doc54",
+      "specialization": "Nephrology",
+      "hospital": "St. Mary Wellness Center",
+      "bio": "Dr. Deborah Rodriguez is a highly accomplished specialist in Nephrology with clinical affiliations at St. Mary Wellness Center. Nephrologist specializing in chronic kidney disease management, hypertension, and dialysis care.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "11:00",
+            "13:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "14:00",
+            "15:00"
+          ]
+        }
+      ],
+      "rating": 4.8,
+      "approved": true,
+      "appointment_fee": 1100
+    },
+    {
+      "id": "u-doc55",
+      "specialization": "Oncology",
+      "hospital": "Mercy Memorial Clinic",
+      "bio": "Dr. Mary Harris is a highly accomplished specialist in Oncology with clinical affiliations at Mercy Memorial Clinic. Compassionate oncologist focusing on hematologic malignancies and targeted molecular cancer treatments.",
+      "availability": [
+        {
+          "day": "Monday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "13:00",
+            "14:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "10:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.9,
+      "approved": true,
+      "appointment_fee": 1090
+    },
+    {
+      "id": "u-doc56",
+      "specialization": "Pulmonology",
+      "hospital": "Mercy Memorial Clinic",
+      "bio": "Dr. Jennifer Wright is a highly accomplished specialist in Pulmonology with clinical affiliations at Mercy Memorial Clinic. Expert in asthma management, lung nodule evaluation, and critical care medicine.",
+      "availability": [
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "15:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Friday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "11:00",
+            "14:00"
+          ]
+        }
+      ],
+      "rating": 4.8,
+      "approved": true,
+      "appointment_fee": 1030
+    },
+    {
+      "id": "u-doc57",
+      "specialization": "Oncology",
+      "hospital": "St. Jude Children's Health",
+      "bio": "Dr. Susan Rodriguez is a highly accomplished specialist in Oncology with clinical affiliations at St. Jude Children's Health. Expert in breast and lung cancers, dedicated to multidisciplinary oncology care and supportive medicine.",
+      "availability": [
+        {
+          "day": "Tuesday",
+          "slots": [
+            "11:00",
+            "13:00",
+            "14:00",
+            "15:00"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "slots": [
+            "11:00",
+            "13:00",
+            "14:00",
+            "16:00"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "slots": [
+            "09:00",
+            "10:00",
+            "13:00",
+            "15:00",
+            "16:00"
+          ]
+        }
+      ],
+      "rating": 4.8,
+      "approved": true,
+      "appointment_fee": 1010
+    }
+  ],
+  "patients": [
+    {
+      "id": "u-patient1",
+      "date_of_birth": "1992-08-15",
+      "gender": "Male",
+      "blood_type": "O+",
+      "phone": "+1 (555) 732-9844"
+    },
+    {
+      "id": "u-bs441mq",
+      "gender": "Not specified",
+      "blood_type": "Unknown",
+      "date_of_birth": "",
+      "phone": ""
+    },
+    {
+      "id": "u-ly27yzp",
+      "gender": "Not specified",
+      "blood_type": "Unknown",
+      "date_of_birth": "",
+      "phone": ""
+    }
+  ],
+  "appointments": [
+    {
+      "id": "apt-prev-1",
+      "patient_id": "u-patient1",
+      "doctor_id": "u-doc1",
+      "date": "2026-05-20",
+      "time_slot": "10:00",
+      "status": "completed",
+      "notes": "Routine blood pressure checkup and review of lipid panel.",
+      "prescription_id": "rx-1",
+      "fee": 180,
+      "created_at": "2026-05-15T10:14:00Z"
+    },
+    {
+      "id": "apt-prev-2",
+      "patient_id": "u-patient1",
+      "doctor_id": "u-doc2",
+      "date": "2026-05-28",
+      "time_slot": "11:00",
+      "status": "confirmed",
+      "notes": "Consultation regarding seasonal pollen allergy symptoms.",
+      "fee": 120,
+      "created_at": "2026-05-24T15:30:00Z"
+    }
+  ],
+  "prescriptions": [
+    {
+      "id": "rx-1",
+      "appointment_id": "apt-prev-1",
+      "patient_id": "u-patient1",
+      "doctor_id": "u-doc1",
+      "diagnosis": "Mild Hypertension with elevated LDL Cholesterol",
+      "medications": [
+        {
+          "name": "Lisinopril",
+          "dosage": "10mg",
+          "frequency": "Once daily in the morning",
+          "duration": "90 Days"
+        },
+        {
+          "name": "Atorvastatin",
+          "dosage": "20mg",
+          "frequency": "Once daily at bedtime",
+          "duration": "90 Days"
+        }
+      ],
+      "instructions": "Avoid grapefruit juice. Maintain low-sodium diet and engage in moderate aerobic exercise 30 minutes daily. Please schedule a repeat biochemical screening in 8 weeks.",
+      "date": "2026-05-20"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "user_id": "u-patient1",
+      "title": "Appointment Confirmed",
+      "message": "Your appointment with Dr. Alex Patel is confirmed for May 28, 2026 at 11:00 AM.",
+      "read": false,
+      "created_at": "2026-05-24T15:30:00Z"
+    },
+    {
+      "id": "notif-2",
+      "user_id": "u-doc1",
+      "title": "Appointment Completed",
+      "message": "You completed the session with John Doe on May 20, 2026.",
+      "read": true,
+      "created_at": "2026-05-20T11:00:00Z"
+    }
+  ],
+  "payments": [
+    {
+      "id": "pay-1",
+      "appointment_id": "apt-prev-1",
+      "amount": 180,
+      "status": "completed",
+      "date": "2026-05-15T10:15:00Z",
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "pay-2",
+      "appointment_id": "apt-prev-2",
+      "amount": 120,
+      "status": "completed",
+      "date": "2026-05-24T15:31:00Z",
+      "payment_method": "PayPal"
+    }
+  ],
+  "schedules": []
+}

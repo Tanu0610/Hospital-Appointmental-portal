@@ -1,0 +1,6 @@
+{
+  "name": "MediCare Hospital Appointment Portal",
+  "description": "A comprehensive Hospital Appointment Portal with support for Patients, Doctors, and Administrators, featuring online scheduling, status tracking, and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
